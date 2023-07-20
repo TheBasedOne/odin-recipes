@@ -1,0 +1,23 @@
+/* styles.css */
+
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    background-color: black;
+}
+
+.main {
+    max-width: 600px;
+    margin: auto;
+    background-color: pink;
+}
+
+.main ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.main h1 {
+    background: lightblue;
+    color: #e9b123;
+}
